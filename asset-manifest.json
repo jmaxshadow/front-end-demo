@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/front-end-demo/static/css/main.4c527fb1.css",
+    "main.js": "/front-end-demo/static/js/main.acffe0b3.js",
+    "static/js/787.252c5a3f.chunk.js": "/front-end-demo/static/js/787.252c5a3f.chunk.js",
+    "static/media/reviewUser.png": "/front-end-demo/static/media/reviewUser.dd82ea48e78f79ff3b15.png",
+    "static/media/guarantee.png": "/front-end-demo/static/media/guarantee.9b94cc5522e7921389d4.png",
+    "static/media/clarifionFeatures.png": "/front-end-demo/static/media/clarifionFeatures.dc9861fabf9fae043d6b.png",
+    "static/media/clarifionProduct.png": "/front-end-demo/static/media/clarifionProduct.3ae1eae55cd123457ce4.png",
+    "static/media/mcAfee.svg": "/front-end-demo/static/media/mcAfee.61a33191159dcd0cac2baa78598963e9.svg",
+    "static/media/norton.svg": "/front-end-demo/static/media/norton.5eaf1ce07884e62d767a0e88755e511b.svg",
+    "static/media/shopPay.svg": "/front-end-demo/static/media/shopPay.7cdc3d082b251e63e2657b2f3193e726.svg",
+    "static/media/applePay.svg": "/front-end-demo/static/media/applePay.194b631348c1de3d8029a816fb9d5381.svg",
+    "static/media/googlePay.svg": "/front-end-demo/static/media/googlePay.bc9892733564a52e2edaa5bed7ef7887.svg",
+    "static/media/headerGuarantee.svg": "/front-end-demo/static/media/headerGuarantee.09980b8f4c3c7a58b53dba590d0f6d5e.svg",
+    "static/media/headerCheck.svg": "/front-end-demo/static/media/headerCheck.dc9cda187e95b0e667beff517e032041.svg",
+    "static/media/visa.svg": "/front-end-demo/static/media/visa.f0ab32b896a380c020227f5cfff2bd68.svg",
+    "static/media/headerTruck.svg": "/front-end-demo/static/media/headerTruck.dbe86a9754bef6f0a75388721923ffb1.svg",
+    "static/media/percentIcon.svg": "/front-end-demo/static/media/percentIcon.59ad8d484fe100dd1496fde1e886dd05.svg",
+    "static/media/paypal.svg": "/front-end-demo/static/media/paypal.10a9feaa06fb4c09231648b87ee127c2.svg",
+    "static/media/amex.svg": "/front-end-demo/static/media/amex.0b8260c0792b4a59b1e259d6e41554a9.svg",
+    "static/media/userCheck.svg": "/front-end-demo/static/media/userCheck.0ce545a5d1efffc3ae7705564c80c7cd.svg",
+    "static/media/masterCard.svg": "/front-end-demo/static/media/masterCard.b27bd941957706db949ecd464864b223.svg",
+    "static/media/headerLike.svg": "/front-end-demo/static/media/headerLike.7cc99a3a3d2f139296246c12c6f24cb0.svg",
+    "static/media/userStars.svg": "/front-end-demo/static/media/userStars.07a7a058c80994cd1afc8a3e69389274.svg",
+    "static/media/productStar.svg": "/front-end-demo/static/media/productStar.b9a71ae0cc94c4ed890b3b94fc116748.svg",
+    "static/media/secure.svg": "/front-end-demo/static/media/secure.b46fbd55964132379e4455d9ad910259.svg",
+    "index.html": "/front-end-demo/index.html",
+    "static/media/rightArrow.svg": "/front-end-demo/static/media/rightArrow.16c8557fe2f33bab23865ceabb118c4a.svg",
+    "static/media/greenCheck.svg": "/front-end-demo/static/media/greenCheck.d5331c5d160801670c5afc93fdafb2be.svg",
+    "static/media/productStock.svg": "/front-end-demo/static/media/productStock.771975a35e98069b3008420e7a58b178.svg",
+    "static/media/productFeatureCheck.svg": "/front-end-demo/static/media/productFeatureCheck.81454c4fe08e86c6fa10c168a8091042.svg",
+    "static/media/smallLeftArrow.svg": "/front-end-demo/static/media/smallLeftArrow.5394d31af3de5230da8ad0219855afb6.svg",
+    "static/media/smallRightArrow.svg": "/front-end-demo/static/media/smallRightArrow.8c24f5d9fe57ca9bdfa8d288be69f002.svg",
+    "main.4c527fb1.css.map": "/front-end-demo/static/css/main.4c527fb1.css.map",
+    "main.acffe0b3.js.map": "/front-end-demo/static/js/main.acffe0b3.js.map",
+    "787.252c5a3f.chunk.js.map": "/front-end-demo/static/js/787.252c5a3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c527fb1.css",
+    "static/js/main.acffe0b3.js"
+  ]
+}
